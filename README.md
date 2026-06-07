@@ -61,7 +61,7 @@ Inspirado nos protocolos de suporte à vida e plantio em Marte, o aplicativo tra
 - **Web:** Com o terminal aberto, aperte a tecla `w` para testar o sistema renderizado pelo seu navegador de internet padrão.
 
 ### video
-https://youtu.be/WKVuz0naQPA
+https://youtu.be/VFAWlKdnZuQ
 
 ---
 ## Integrantes
